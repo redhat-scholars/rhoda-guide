@@ -113,7 +113,28 @@
 <h2>Introduction</h2>
 <div class="sectionbody">
 <div class="paragraph">
-<p>Welcome to the Red Hat OpenShift Database Access Workshop</p>
+<p>Many enterprise software applications today are being migrated to—or built from scratch upon—containerized cloud environments. Kubernetes is one of the most widely used container technologies in such environments. One of the most fundamental and universal needs of enterprise applications is connections to databases.</p>
+</div>
+<div class="paragraph">
+<p>While there are numerous benefits for both developers and operators driving this adoption of cloud and containers&#8212;&#8203;streamlined developer self-service, the ability to operate reliably and securely yet flexibly at massive scale, to name a few&#8212;&#8203;there are also challenges. Standing up databases and providing and managing connections to them is still a complex task, even in a cloud environment.</p>
+</div>
+<div class="paragraph">
+<p>One industry trend that is helping mitigate this challenge is the emergence of “database as a service” (DBaaS). In DBaaS offerings, a database provider operates databases as a cloud service, letting application developers specify parameters via a web interface, initiating the specified database to which the application can then connect over the internet. This saves the developer (or IT department) from the time-consuming and error-prone task of installing and configuring the database, and also improves reliability since the automated configuration is less error-prone than the manual scenario.</p>
+</div>
+<div class="paragraph">
+<p>But there remain many challenges, including discovery of already-configured connections, connection sprawl, access control, and cost optimization. In organizations where many development teams are building and deploying diverse applications across a large container estate, it is inefficient and risky to have each team independently connect applications to different DBaaS offerings. Visibility and manageability become impossible, and there is no centralized view affording opportunities to optimize and control usage, access, security, etc.</p>
+</div>
+<div class="paragraph">
+<p>Enter Red Hat’s newest cloud service: Red Hat OpenShift Database Access (RHODA). RHODA is a capability in managed OpenShift Kubernetes environments enabling administrators to set up connections to DBaaS offerings from different providers and have such connections “on the shelf” within the OpenShift environment for applications to easily incorporate. Developers end up with an even easier process than setting up the DBaaS connection manually, and administrators gain the centralized view and control needed to manage many connections at scale.</p>
+</div>
+<div class="paragraph">
+<p>RHODA is an add-on service to OpenShift Dedicated (OSD) and Red Hat OpenShift Service on AWS (ROSA) that provides consistency for how OSD and ROSA administrators and developers discover, consume, monitor, and manage databases in a multi-cloud environment.</p>
+</div>
+<div class="paragraph">
+<p>RHODA leverages the Kubernetes construct of operators to bind application clusters to database instances. IT operations can launch a database discovery process based on resource permissions to identify the database instances that can be accessed. Once established, developers can see these new database services from the catalog on their OpenShift developer console represented as a UI tile for each database registered with the system. After selecting a database service instance, the developer can drag and drop a binding connector on the OpenShift developer UI to establish database connectivity to a Kubernetes pod.</p>
+</div>
+<div class="paragraph">
+<p>RHODA is the latest in a series of application and data cloud services Red Hat is delivering on top of managed OpenShift. Red Hat OpenShift API Management (RHOAM) accelerates the development and deployment of API-first microservices-based applications. Red Hat OpenShift Streams for Apache Kafka (RHOSAK) is a managed cloud service that reduces the operational cost and complexity of deploying real-time, streaming data applications across hybrid-cloud environments.  And Red Hat OpenShift Data Science (RHODS) is a cloud service that gives data scientists and developers a powerful AI/ML platform for building intelligent applications.</p>
 </div>
 </div>
 </div>
