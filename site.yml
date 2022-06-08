@@ -8,7 +8,9 @@ site:
 
 content:
   sources:
-    - url: ./
+    - url: git@github.com:redhat-scholars/rhoda-guide.git
+      tags: []
+      branches: ["1.0", "main"]
       start_path: documentation
 
 asciidoc:
