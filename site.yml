@@ -5,6 +5,7 @@ site:
   title: rhoda-guide
   url: https://redhat-scholars.github.io/course-template
   start_page: rhoda-guide::index.adoc
+  branches: master
 
 content:
   sources:
