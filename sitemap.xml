@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>https://redhat-scholars.github.io/course-template/Red%20Hat%20OpenShift%20Database%20Access%20Workshop/01-setup.html</loc>
-<lastmod>2022-06-08T22:40:00.613Z</lastmod>
+<loc>https://redhat-scholars.github.io/course-template/rhoda-tutorial/main/01-setup.html</loc>
+<lastmod>2022-06-08T22:58:39.394Z</lastmod>
 </url>
 <url>
-<loc>https://redhat-scholars.github.io/course-template/Red%20Hat%20OpenShift%20Database%20Access%20Workshop/02-deploy.html</loc>
-<lastmod>2022-06-08T22:40:00.613Z</lastmod>
+<loc>https://redhat-scholars.github.io/course-template/rhoda-tutorial/main/02-deploy.html</loc>
+<lastmod>2022-06-08T22:58:39.394Z</lastmod>
 </url>
 <url>
-<loc>https://redhat-scholars.github.io/course-template/Red%20Hat%20OpenShift%20Database%20Access%20Workshop/index.html</loc>
-<lastmod>2022-06-08T22:40:00.613Z</lastmod>
+<loc>https://redhat-scholars.github.io/course-template/rhoda-tutorial/main/index.html</loc>
+<lastmod>2022-06-08T22:58:39.394Z</lastmod>
 </url>
 </urlset>
