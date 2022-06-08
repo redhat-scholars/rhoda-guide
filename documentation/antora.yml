@@ -1,6 +1,6 @@
-name: Red Hat OpenShift Database Access Workshop
-title: rhoda-guide
-version: master
+name: rhoda-tutorial
+title: DBAAS Workshop
+version: main
 nav:
   - modules/ROOT/nav.adoc
 
