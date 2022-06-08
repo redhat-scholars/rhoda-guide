@@ -1,6 +1,6 @@
 name: rhoda-tutorial
 title: DBAAS Workshop
-version: main
+version: master
 nav:
   - modules/ROOT/nav.adoc
 
