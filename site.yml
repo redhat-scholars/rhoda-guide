@@ -2,9 +2,9 @@ runtime:
   cache_dir: ./.cache/antora
 
 site:
-  title: RHODA
+  title: rhoda-guide
   url: https://redhat-scholars.github.io/course-template
-  start_page: RHODA::index.adoc
+  start_page: rhoda-guide::index.adoc
 
 content:
   sources:

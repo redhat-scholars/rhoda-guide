@@ -1,5 +1,5 @@
-name: Red Hat OpenShift Database Access-Workshop
-title: RHODA
+name: Red Hat OpenShift Database Access Workshop
+title: rhoda-guide
 version: master
 nav:
   - modules/ROOT/nav.adoc
