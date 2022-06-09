@@ -4,7 +4,7 @@
 :!sectids:
 
 [.text-center.strong]
-== Introduction
+== Overview
 
 Many enterprise software applications today are being migrated to—or built from scratch upon—containerized cloud environments. Kubernetes is one of the most widely used container technologies in such environments. One of the most fundamental and universal needs of enterprise applications is connections to databases. 
 
