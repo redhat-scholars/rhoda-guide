@@ -1,15 +1,10 @@
-* xref:01-setup.adoc[1. Setup RHODA]
-** xref:01-setup.adoc#sandboxsignup[Configure]
-** xref:01-setup.adoc#apitenant[Connected Database]
+* xref:introduction.adoc[1. Introduction]
+* xref:developer-workspace.adoc[2. Get your Developer Workspace]
+* xref:inventory-quarkus.adoc[3. Create Inventory Service with Quarkus]
+* xref:catalog-spring-boot.adoc[4. Create Catalog Service with Spring Boot]
+* xref:gateway-dotnet.adoc[5. Create Gateway Service with .NET]
+* xref:webui-deployment.adoc[6. Deploy Web UI with with Node.js and AngularJS]
+* xref:app-health.adoc[7. Monitor Application Health]
+* xref:app-config.adoc[8. Externalize Application Configuration]
 
-
-* xref:02-deploy.adoc[2. Deploy a REST API and setup for RHODA]
-** xref:02-deploy.adoc#deploy[Deploy a REST Service]
-** xref:02-deploy.adoc#configure[Annotate the Quarkus Service]
-
-
-* xref:03_lauch-sandbox.adoc[3. Launch the RHODA Console]
-
-* xref:04-manage-api.adoc[4. Verify API]
-** xref:04-manage-api.adoc#_import_the_api_into_openshift_api_management[Connect to the Database]
 
