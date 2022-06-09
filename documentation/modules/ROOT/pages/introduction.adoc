@@ -1,5 +1,5 @@
-= Introduction 
-:navtitle: Introduction
+= Introduction to Workshop
+:navtitle: Introduction to Workshop
 
 _5 MINUTE EXERCISE_
 
