@@ -1,4 +1,4 @@
-* xref:introduction.adoc[1. Introduction]
+* xref:introduction.adoc[1. Introduction to Workshop]
 * xref:developer-workspace.adoc[2. Get your Developer Workspace]
 * xref:inventory-quarkus.adoc[3. Create Inventory Service with Quarkus]
 * xref:catalog-spring-boot.adoc[4. Create Catalog Service with Spring Boot]
